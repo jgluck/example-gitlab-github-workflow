@@ -19,6 +19,8 @@ An early attempt at creating a private/public situation
 
 ###External Repository
 
+####Create the repository on Github
 
+####Clone the repository elsewhere
 
 
